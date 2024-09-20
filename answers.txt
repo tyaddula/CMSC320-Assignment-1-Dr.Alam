@@ -18,4 +18,8 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging combines changes from one branch into another creating a new commit called 
 merge commit. It has two parent commits where one is from the current branch and the other 
 is from the branch being merged. Rebase moves a sequence of commits to a new base commit. It 
-applies commits from one branch to the top of another branch.  
+applies commits from one branch to the top of another branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my python skills and my experience with git.   
